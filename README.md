@@ -50,7 +50,7 @@ Identifies categories with longer resolution times, enabling targeted process im
 
 ##  Customer Satisfaction & Employee Performance
 
-![Dashboard](Customer Satisfaction& Employee.jpeg)
+![Dashboard](CustomerSatisfaction& Employee preformance.jpeg)
 
 **Description:**  
 This section focuses on measuring customer satisfaction (CSAT) alongside employee performance indicators such as response time, resolution efficiency, and service quality.
@@ -62,7 +62,7 @@ Establishes a direct relationship between employee performance and customer sati
 
 ## ⚙️ Support Operations & Process Efficiency
 
-![Dashboard](support Operation.jpeg)
+![Dashboard](supportOperation.jpeg)
 
 **Description:**  
 This dashboard highlights operational workflows, ticket lifecycle management, and escalation handling processes within the support system.
