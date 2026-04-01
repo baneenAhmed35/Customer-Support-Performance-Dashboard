@@ -23,6 +23,55 @@ The project aims to build an integrated system that improves both customer exper
 	•	Dashboards (Streamlit / Power BI / Plotly)
 	•	Data Processing & KPI Tracking
 
+
+	## 📊 Service Ticket Overview
+
+![Dashboard](Dashboard_Overview.jpeg)
+
+**Description:**  
+This dashboard provides a high-level overview of service ticket activity, including total tickets, categories, and monthly trends across different regions.
+
+**Key Insight:**  
+Highlights peak ticket periods (~774 tickets) and overall volume (~7.5K), enabling better workload distribution, resource planning, and proactive operational management.
+
+---
+
+## ⏱️ Resolution Time Analysis
+
+![Dashboard](Resolution_Time.jpeg)
+
+**Description:**  
+This dashboard analyzes average resolution time across ticket categories such as system, software, hardware, and access-related issues.
+
+**Key Insight:**  
+Identifies categories with longer resolution times, enabling targeted process improvements and reducing delays to meet SLA targets (≤ 4.8 hours).
+
+---
+
+##  Customer Satisfaction & Employee Performance
+
+![Dashboard](Customer Satisfaction& Employee.jpeg)
+
+**Description:**  
+This section focuses on measuring customer satisfaction (CSAT) alongside employee performance indicators such as response time, resolution efficiency, and service quality.
+
+**Key Insight:**  
+Establishes a direct relationship between employee performance and customer satisfaction, supporting data-driven training, performance optimization, and improved customer experience.
+
+---
+
+## ⚙️ Support Operations & Process Efficiency
+
+![Dashboard](support Operation.jpeg)
+
+**Description:**  
+This dashboard highlights operational workflows, ticket lifecycle management, and escalation handling processes within the support system.
+
+**Key Insight:**  
+Identifies process bottlenecks and inefficiencies, enabling smarter prioritization, faster escalation handling, and improved overall operational efficiency.
+
+---
+
   Customer Experience Strategy
   ⸻
 The project emphasizes a complete customer journey, not just problem resolution.
